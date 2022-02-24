@@ -1,4 +1,4 @@
-django 
+Django
 djangorestframework 
 django-environ
 django-cors-headers 
